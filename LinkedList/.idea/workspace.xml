@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82751d37-d7c0-4ef6-8290-0e91fb454aeb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Yxnjd87GeOv6tCwhdLPa0OZmOU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="LinkedList" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82751d37-d7c0-4ef6-8290-0e91fb454aeb" name="Default Changelist" comment="" />
+      <created>1583893248608</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583893248608</updated>
+      <workItem from="1583893250716" duration="12465000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="653" y="237" key="#com.intellij.ide.util.MemberChooser" timestamp="1583950639737">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="653" y="237" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1583950639737" />
+    <state width="1638" height="168" key="GridCell.Tab.0.bottom" timestamp="1584038749101">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="168" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1584038749101" />
+    <state width="1638" height="168" key="GridCell.Tab.0.center" timestamp="1584038749099">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="168" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1584038749099" />
+    <state width="1638" height="168" key="GridCell.Tab.0.left" timestamp="1584038749098">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="168" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1584038749098" />
+    <state width="1638" height="168" key="GridCell.Tab.0.right" timestamp="1584038749100">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="168" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1584038749100" />
+  </component>
+</project>
